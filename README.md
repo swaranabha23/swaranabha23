@@ -46,7 +46,6 @@ Currently a student who love learning &amp; building full stack projects , also 
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/swaran-abha-1547133a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:swaranabha83@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
